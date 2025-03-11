@@ -16,7 +16,7 @@ timezone:
 
 title: Alexander Neff # the main title
 
-tagline: Mechanical Engineer and Problem Solver # it will display as the subtitle
+tagline: Mechanical Engineer and Problem Solver at Purdue University # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   k
@@ -88,7 +88,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: light #| dark]
+theme_mode: #light #| dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
