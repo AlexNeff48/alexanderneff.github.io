@@ -18,8 +18,7 @@ title: Alexander Neff # the main title
 
 tagline: Mechanical Engineer and Problem Solver at Purdue University # it will display as the subtitle
 
-description: >- # used by seo meta and the atom feed
-  k
+description: k # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -29,9 +28,9 @@ github:
   username: AlexNeff48 # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: 17136MPR # change to your Twitter username
 
-social: 17136MPR
+social: Alexander Neff
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: your_full_name
